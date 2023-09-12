@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"actividades"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"excepciones"},{"l":"gimnasio"},{"l":"GUI"},{"l":"GUI.admin"},{"l":"GUI.cliente"},{"l":"GUI.listeners"},{"l":"GUI.listeners.admin"},{"l":"GUI.listeners.cliente"},{"l":"GUI.listeners.monitor"},{"l":"main"},{"l":"tarifas"},{"l":"usuarios"}];updateSearchResults();
